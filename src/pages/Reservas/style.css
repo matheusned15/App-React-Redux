@@ -30,3 +30,11 @@
     margin-top: 10px;
     font-weight: bold;
   }
+  .reservas #amount input{
+    border: 1px solid #EEE;
+    border-radius: 4px;
+    color: #242424;
+    padding: 5px;
+    width: 45px;
+  
+  }
